@@ -1,5 +1,5 @@
 # sync-userName-password
-sync账号  : 57c349a7b2fcfe07d26d82169d7c697f
+sync账号  :  8c43a8e054032aa63a3bfacdd58daf6b25e59f6b
 
-sync密码  :  5fc0ce5560ff5fecffe9288b8af9f43fc7fac631
+sync密码  :  022204504c6c84161cd7986b144eea26
 
